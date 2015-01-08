@@ -1,0 +1,159 @@
+[
+    {
+      "headlineSv": "1.",
+      "questionSv": "Någonstans i slottet finns den här tavlan. Kan du hitta den? I vilket rum? Håll ögonen öppna… Klicka här när du hittat den. Prova de andra uppdragen så länge.",
+      "answersSv": [
+        "Frederik IX´s rum",
+        "Drottning Louises privata rum",
+        "Christian X´s rum"
+      ],
+      "headlineEn": "1.",
+      "questionEn": "This painting is located somewhere in the castle. Can you find it? Which room is it in? Keep your eyes open... Click here when you find it. Try the other challenges in the meantime.",
+      "answersEn": [
+        "Frederik IX´s room",
+        "Queen Louise’s private rooms",
+        "Christian X´s room"
+      ],
+      "headlineTy": "1.",
+      "questionTy": "Dieses Gemälde befindet sich irgendwo im Schloss. Kannst du es finden? In welchem Raum? Halte die Augen offen... Klicke hier, wenn du es gefunden hast. Versuche in der Zwischenzeit die anderen Aufgaben.",
+      "answersTy": [
+        "Raum von Frederik IX.",
+        "Privatgemach von Königin Louise ",
+        "Raum von Christian X.  "
+      ],
+      "headlineDk": "1.",
+      "questionDk": "Et sted i slottet findes dette maleri. Kan du finde det? I hvilket rum er det? Hold øjnene åbne... Klik her, når du har fundet det. Prøv de andre missioner indtil da.",
+      "answersDk": [
+        "Frederik IX's værelse",
+        "Dronning Louises private værelse",
+        "FChristian X's værelse"
+      ],
+      "right": "2",
+	  "questionimage": "AmalienborgInterior.png",
+	  "answerimage": ""
+    },
+    {
+      "headlineSv": "2. Frederik IX´s arbetsrum",
+      "questionSv": "Frederik IX blev kung i Danmark år 1947. I hans arbetsrum kan du se att han verkar ha samlat på ett visst föremål. Vilket?",
+      "answersSv": [
+        "Knivar",
+        "Pipor",
+        "Mynt"
+      ],
+      "headlineEn": "2. Frederik IX´s work room",
+      "questionEn": "Frederik IX became king of Denmark in 1947. In his workroom, you can see that he seems to have collected a number of objects. What are they?",
+      "answersEn": [
+        "Knives",
+        "Pipes",
+        "Coins"
+      ],
+      "headlineTy": "2. Das Arbeitszimmer von Frederik IX.",
+      "questionTy": "Frederik IX. bestieg 1947 den dänischen Thron. In seinem Arbeitszimmer kannst du sehen, dass er anscheinend etwas gesammelt hat. Was genau?",
+      "answersTy": [
+        "Messer",
+        "Pfeifen",
+        "Münzen"
+      ],
+      "headlineDk": "2. Frederik IX's arbejdsværelse",
+      "questionDk": "Frederik IX blev konge i Danmark år 1947. I hans arbejdsrum, kan du se, at han tilsyneladende samlede på en bestemt slags ting. Hvilke?",
+      "answersDk": [
+        "Knive",
+        "Piber",
+        "Mønter"
+      ],
+      "right": "2"
+    },
+    {
+      "headlineSv": "3. Christian IX´s arbetsrum",
+      "questionSv": "Christian IX blev kung år 1863. Han hade en stor familj och på hans skrivbord kan du se många fotografier. Det finns också ett föremål där som brukar förknippas med historier om privatdetektiver. Kan du hitta det? Vilket föremål är det?",
+      "answersSv": [
+        "En hatt",
+        "En penna",
+        "Ett förstoringsglas"
+      ],
+      "headlineEn": "3. Christian IX´s work room ",
+      "questionEn": "Christian IX became king in 1863. He had a large family and on his desk you can see many photographs. There is also an object, which is usually associated with stories about private detectives. Can you find it? Which object is it?",
+      "answersEn": [
+        "A hat",
+        "A pen",
+        "A magnifying glass"
+      ],
+      "headlineTy": "3. Das Arbeitszimmer von Christian IX.",
+      "questionTy": "Christian IX. wurde 1863 zum König gekrönt. Er hatte eine große Familie und auf seinem Schreibtisch kannst du viele Photographien sehen. Dort liegt auch ein Gegenstand, der häufig in Geschichten über Privatdetektive vorkommt. Kannst du diesen Gegenstand finden? Um welchen Gegenstand handelt es sich?",
+      "answersTy": [
+        "Hut",
+        "Stift",
+        "Lupe"
+      ],
+      "headlineDk": "3. Christian IX's arbejdsværelse",
+      "questionDk": "Christian IX blev konge i 1863. Han havde en stor familie og på hans skrivebord kan du se mange fotografier. Der findes også en genstand, der ofte er forbundet med historier om privatdetektiver. Kan du finde det? Hvilken genstand er det?",
+      "answersDk": [
+        "En hat",
+        "En blyant",
+        "Et forstørrelsesglas"
+      ],
+      "right": "3"
+    },
+    {
+      "headlineSv": "4.",
+      "questionSv": "Amalienborg består av fyra stycken palats. I ett av rummen här på museet finns en modell av Amalienborg. Ställ dig vid den och försök hitta det palats som du just nu är inne i. Vad heter det?",
+      "answersSv": [
+        "Christian VII´s palats ",
+        "Christian VIII´s palats",
+        "Frederik VIII´s palats "
+      ],
+      "headlineEn": "4.",
+      "questionEn": "Amalienborg is made up of four different palaces. In one of the rooms here at the museum there is a model of Amalienborg. Go to it, and try to find the palace where you are right now. What is it called?",
+      "answersEn": [
+        "Christian VII´s palace",
+        "Christian VIII´s palace",
+        "Frederik VIII´s palace"
+      ],
+      "headlineTy": "4.",
+      "questionTy": "Amalienborg besteht aus vier Palästen. In einem der Räume hier im Museum gibt es ein Modell von Amalienborg. Stelle dich neben das Modell und versuche den Palast zu finden, in dem du gerade bist. Wie heißt er?",
+      "answersTy": [
+        "Palais Christian VII",
+        "Palais Christian VIII",
+        "Palais Frederik VIII"
+      ],
+      "headlineDk": "4.",
+      "questionDk": "Amalienborg består af fire palæer. I et af værelserne her på museet er en model af Amalienborg. Stil dig i værelset og forsøg at finde det palæ på modellen, som du i øjeblikket befinder dig i. Hvad hedder det?",
+      "answersDk": [
+        "Christian VII's palæ",
+        "Christian VIII's palæ",
+        "Frederik VIII's palæ"
+      ],
+      "right": "2"
+    },
+    {
+      "headlineSv": "5.",
+      "questionSv": "I utställningen visas i ett av rummen olika spel som kungafamiljen har roat sig med genom tiderna. Någonstans hittar du till exempel en kortlek i en röd ask. På det översta kortet ser du en kung. Vad gör kungen på bilden?",
+      "answersSv": [
+        "Han spelar tennis.",
+        "Han läser.",
+        "Han röker cigarr."
+      ],
+      "headlineEn": "5.",
+      "questionEn": "5. One of the rooms at the exhibition displays a number of different games that the royal family have used for entertainment through the ages. For example, somewhere you can find a deck of cards in a red box. On the top card, you can see a king. What is the king doing on the picture?",
+      "answersEn": [
+        "He is playing tennis.",
+        "He is reading.",
+        "He is smoking a cigar."
+      ],
+      "headlineTy": "5.",
+      "questionTy": "Die Ausstellung zeigt in einem der Räume verschiedene Spiele, mit denen sich die königliche Familie im Laufe der Jahre die Zeit vertrieben hat. Dort findest du zum Beispiel ein Kartenspiel in einer roten Schachtel. Auf der obersten Karte siehst du einen König. Was macht der König auf dem Bild?",
+      "answersTy": [
+        "Er spielt Tennis.",
+        "Er liest.",
+        "Er raucht eine Zigarre."
+      ],
+      "headlineDk": "5.",
+      "questionDk": "I udstillingen vises der i et af værelserne forskellige spil, som kongefamilien har underholdt sig med gennem tiderne. Et sted finder du for eksempel et spil kort i en rød boks. På det øverste kort, kan du se en konge. Hvad laver kongen på billedet?",
+      "answersDk": [
+        "Han spiller tennis",
+        "Han læser",
+        "Han ryger cigar"
+      ],
+      "right": "3"
+    }
+ ]

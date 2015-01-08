@@ -1,0 +1,57 @@
+[
+	{	
+		"LocationText" : "Frederiksstaaden",
+		"ImageUri" : "FredriksStatue",
+		"QuestionFileName" :"Amalienborg.json"
+	},
+	{	
+		"LocationText" : "Amalienborg Museum",
+		"ImageUri" : "Amalienborg3Thumb",
+		"QuestionFileName" :"amalienborgmuseum.json"
+	},
+	{	
+		"LocationText" : "Den lille havefrue",
+		"ImageUri" : "DenLilleHavFrueSmallThumb",
+		"QuestionFileName" :"Havefrue.json"
+	},
+	{	
+		"LocationText" : "Frederiks Kirkr",
+		"ImageUri" : "FrederiksKirkeThumb",
+		"QuestionFileName" :"Frederiks Kirke.json"
+	},
+	{	
+		"LocationText" : "Gefionfontänen",
+		"ImageUri" : "GafionfountainThumb",
+		"QuestionFileName" :"Gefion.json"
+	},
+	{	
+		"LocationText" : "Runde Tårn",
+		"ImageUri" : "Rundetorn",
+		"QuestionFileName" :"Rundetårn.json"
+	},
+	{	
+		"LocationText" : "Frederiksborg Slott",
+		"ImageUri" : "Runde Tårn",
+		"QuestionFileName" :""
+	},
+	{	
+		"LocationText" : "Rosenborg Slott",
+		"ImageUri" : "Runde Tårn",
+		"QuestionFileName" :""
+	},
+	{	
+		"LocationText" : "Rådhuset",
+		"ImageUri" : "Runde Tårn",
+		"QuestionFileName" :""
+	},
+	{	
+		"LocationText" : "Vor Frue Kirke",
+		"ImageUri" : "Runde Tårn",
+		"QuestionFileName" :""
+	},
+	{	
+		"LocationText" : "Christiansborg Slott",
+		"ImageUri" : "Runde Tårn",
+		"QuestionFileName" :""
+	}
+]

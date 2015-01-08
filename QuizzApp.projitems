@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{8E18E886-C698-4C4A-804C-607C8396BF2F}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>QuizzApp</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Language.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Languages.xaml.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LanguageCell.xaml.cs">
+      <DependentUpon>LanguageCell.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Location.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LocationCell.xaml.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LocationListView.xaml.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\QuestionList.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LoadResourceText.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\QuestionView.xaml.cs">
+      <DependentUpon>QuestionView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Fonts.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\QuestionEn.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\QuestionSv.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\QuestionDk.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\QuestionTy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Question.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Answer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ResultView.xaml.cs">
+      <DependentUpon>ResultView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ImageView.xaml.cs">
+      <DependentUpon>ImageView.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Model\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Views\" />
+    <Folder Include="$(MSBuildThisFileDirectory)CustomControls\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Helper\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Extensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Views\Languages.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Views\LocationCell.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Views\LocationListView.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LanguageCell.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Amalienborg.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)amalienborgmuseum.json" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\QuestionView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)LocationData.json" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Frederiks Kirke.json" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Havefrue.json" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Gefion.json" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Rundetårn.json" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ResultView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ImageView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,159 @@
+[
+  {
+	  "headlineSv": "1.",
+      "questionSv": "Kan du se vad sjöjungfrun har i handen?",
+      "answersSv": [
+        "En ål",
+        "Ett hårband",
+        "Sjögräs"
+      ],
+      "headlineEn": "1.",
+      "questionEn": "Can you see what the mermaid has in her hand?",
+      "answersEn": [
+        "An eel",
+        "A hairband",
+        "Seaweed"
+      ],
+      "headlineTy": "1.",
+      "questionTy": "Kannst du erkennen, was die Meerjungfrau in der Hand hält?",
+      "answersTy": [
+        "Einen Aal",
+        "Ein Haarband",
+        "Seegras"
+      ],
+      "headlineDk": "1.",
+      "questionDk": "Kan du se, hvad havfruen har i hånden?",
+      "answersDk": [
+        "En ål",
+        "Et hårbånd",
+        "Tang"
+      ],
+      "right": "3"
+    },
+    {
+      "headlineSv": "2.",
+      "questionSv": "H.C. Andersen har skrivit flera andra kända berättelser. Vilken av följande tre sagor har H.C. Andersen skrivit?",
+      "answersSv": [
+        "Kejsarens nya kläder",
+        "Mästerkatten i stövlar",
+        "Askungen"
+      ],
+      "headlineEn": "2.",
+      "questionEn": "Hans Christian Andersen has written many other famous stories. Which of the following three tales did he write?",
+      "answersEn": [
+        "The Emperor’s New Clothes",
+        "Puss in Boots",
+        "Cinderella"
+      ],
+      "headlineTy": "2.",
+      "questionTy": "H.C. Andersen hat noch viele andere bekannte Erzählungen geschrieben. Welches der folgenden drei Märchen hat H.C. Andersen verfasst?",
+      "answersTy": [
+        "Des Kaisers neue Kleider",
+        "Der gestiefelte Kater",
+        ""
+      ],
+      "headlineDk": "2.",
+      "questionDk": "H.C Andersen har skrevet flere andre berømte historier. Hvilke af følgende tre eventyr har H.C. Andersen skrevet?",
+      "answersDk": [
+        "Kejserens nye klæder",
+        "Den bestøvlede kat",
+        "Askepot"
+      ],
+      "right": "1"
+    },
+    {
+      "headlineSv": "3.",
+      "questionSv": "I H.C.Andersens berättelse om sjöjungfrun får man möta Ariel och hennes vänner och familj på havets botten. Minns du hur många systrar Ariel har?",
+      "answersSv": [
+        "5",
+        "3",
+        "8"
+      ],
+      "headlineEn": "3.",
+      "questionEn": "In Hans Christian Andersen’s story about the little mermaid, you meet Ariel and her friends and family at the bottom of the sea. Do you remember how many sisters Ariel has?",
+      "answersEn": [
+        "5",
+        "3",
+        "8"
+      ],
+      "headlineTy": "3.",
+      "questionTy": "In H.C.Andersens Märchen von der Meerjungfrau trifft man Ariel und ihre Freunde und Familie auf dem Meeresgrund. Weißt du noch, wie viele Schwestern Ariel hat?",
+      "answersTy": [
+        "5",
+        "3",
+        "8"
+      ],
+      "headlineDk": "3.",
+      "questionDk": "I H.C. Andersens eventyr om havfruen, møder man Ariel og hendes venner og familie på havets bund. Husker du hvor mange søstre Ariel har?",
+      "answersDk": [
+        "5",
+        "3",
+        "8"
+      ],
+      "right": "1"
+    },
+    {
+      "headlineSv": "4.",
+      "questionSv": "Om du jämför bilden i telefonen med statyn du har framför dig - vad är det som saknas på bilden? Försök hitta svaret innan du tittar på alternativen.",
+      "answersSv": [
+        "En del av fiskstjärten",
+        "Armen",
+        "Näsan"
+      ],
+      "headlineEn": "4.",
+      "questionEn": "If you compare the picture in your phone with the statue in front of you – what is missing on the picture? Try to find the answer before you look at the options.",
+      "answersEn": [
+        "Part of her tail",
+        "An arm",
+        "Her nose"
+      ],
+      "headlineTy": "4.",
+      "questionTy": "Wenn du das Bild im Telefon mit der Figur vor dir vergleichst – was fehlt auf dem Bild? Versuche die Antwort zu finden, bevor du dir die Antwortmöglichkeiten ansiehst.",
+      "answersTy": [
+        "Ein Teil des Fischschwanzes",
+        "Der Arm",
+        "Die Nase"
+      ],
+      "headlineDk": "4.",
+      "questionDk": "Hvis du sammenligner billedet på telefonen med statuen foran dig - hvad mangler da i billedet? Prøv at finde svaret, før du kigger på mulighederne.Der findes en Disneyfilm om Ariel, som er baseret på H.C. Andersens eventyr. Den ender dog på en lidt anden på end H.C. Andersens eventyr gør. I hans historie ender eventyret med, at Ariel bliver en af luftens døtre. Hvis du har set filmen - kan du så huske, hvordan Disneyfilmen ender?",
+      "answersDk": [
+        "En del af halen",
+        "Armen",
+        "Næsen"
+      ],
+      "right": "1",
+	  "questionimage": "DenLilleHavfrue2.png",
+	  "answerimage": ""
+    },
+    {
+      "headlineSv": "5.",
+      "questionSv": "Det finns en Disney-film om Ariel som också är gjord utifrån H.C. Andersens berättelse. Den slutar dock på ett lite annorlunda sätt än vad H.C. Andersens berättelse gör. I hans berättelse slutar äventyret med att Ariel blir en av luftens döttrar. Om du har sett filmen - minns du hur Disney-filmen slutar?",
+      "answersSv": [
+        "Ariel flyttar hem till sin familj på havets botten",
+        "Ariel gifter sig med prins Eric",
+        "Ariel blir för evigt fånge hos havshäxan Ursula"
+      ],
+      "headlineEn": "5.",
+      "questionEn": "There is a Disney film about Ariel, which is also based on Hans Christian Andersen’s story. However, the film has a different ending to H. C. Andersen’s story. In his story, the adventure finishes with Ariel becoming a daughter of the air. If you have seen the film, do you remember how it ends?",
+      "answersEn": [
+        "Ariel goes home to her family at the bottom of the sea",
+        "Ariel marries Prince Eric",
+        "Ariel becomes a prisoner of the sea-witch Ursula"
+      ],
+      "headlineTy": "5.",
+      "questionTy": "Es gibt einen Disney-Film über Ariel, der ebenfalls auf H.C. Andersens Märchen basiert. Dieser endet jedoch etwas anders als das Märchen von H.C. Andersen. Am Ende seines Märchens wird Ariel zu einer Tochter der Luft. Wenn du den Film gesehen hast – erinnerst du dich daran, wie der Disney-Film ausgegangen ist?",
+      "answersTy": [
+        "Ariel kehrt zu ihrer Familie auf dem Meeresgrund zurück",
+        "Ariel heiratet Prinz Eric",
+        "Ariel bleibt für immer die Gefangene der Meerhexe Ursula"
+      ],
+      "headlineDk": "5.",
+      "questionDk": "Der findes en Disneyfilm om Ariel, som er baseret på H.C. Andersens eventyr. Den ender dog på en lidt anden på end H.C. Andersens eventyr gør. I hans historie ender eventyret med, at Ariel bliver en af luftens døtre. Hvis du har set filmen - kan du så huske, hvordan Disneyfilmen ender?",
+      "answersDk": [
+        "Ariel flytter hjem til sin familie på havbunden",
+        "Ariel gifter sig med prins Eric",
+        "Ariel bliver fanget af havheksen Ursula"
+      ],
+      "right": "2"
+    }
+ ]
